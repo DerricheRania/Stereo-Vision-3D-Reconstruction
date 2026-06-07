@@ -1,4 +1,4 @@
-# 📷 Stereo Vision — 3D Reconstruction Mini Project
+# 📷 Stereo Vision : 3D Reconstruction 
 
 ## Overview
 
